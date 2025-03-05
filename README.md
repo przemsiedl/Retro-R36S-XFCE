@@ -1,4 +1,7 @@
-# Retro-R36S-XFCE
+# Retro-R36S-XFCE  
+Important. It was done on the newest https://github.com/AeolusUX/ArkOS-R3XS/releases/tag/ArkOS.V2.0.02092025 operationg system.
+Script may not have some commands if you using other OS.  
+
 Script that perform safe install XFCE in Chroot in R36S retroconsole.  
 
 Installation should be safe becouse we doesn't touch system files.  
