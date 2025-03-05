@@ -13,4 +13,8 @@ To remove debian go in file manager into / and remove /chroot/ directory and /sw
 3. Go into Options/Tools/
 4. Run install
 5. Run debian-gui to start newest debian with XFCE
-6. Remove files install.s, debian.sh and directory root.
+6. Remove files install.s, debian.sh and directory root.  
+
+# More informations
+ - Now im working on the better way to mod console.
+ - In the future i will create tool to connect RDP into any machine based on rdesktop.
